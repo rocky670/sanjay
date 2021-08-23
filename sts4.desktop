@@ -1,0 +1,15 @@
+[Desktop Entry]
+
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/STS4/SpringToolSuite4
+
+Name= STS 4
+
+Comment= STS 4
+
+Icon= /opt/STS4/icon.xpm
+Categories=Application;
+
+
